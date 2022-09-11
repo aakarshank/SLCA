@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SLCA/static/css/main.073c9b0a.css",
+    "main.js": "/SLCA/static/js/main.0e604f3f.js",
+    "static/js/787.ec1b77b6.chunk.js": "/SLCA/static/js/787.ec1b77b6.chunk.js",
+    "static/media/logo.svg": "/SLCA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SLCA/index.html",
+    "main.073c9b0a.css.map": "/SLCA/static/css/main.073c9b0a.css.map",
+    "main.0e604f3f.js.map": "/SLCA/static/js/main.0e604f3f.js.map",
+    "787.ec1b77b6.chunk.js.map": "/SLCA/static/js/787.ec1b77b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0e604f3f.js"
+  ]
+}
