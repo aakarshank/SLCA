@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/SLCA/static/css/main.073c9b0a.css",
-    "main.js": "/SLCA/static/js/main.0e604f3f.js",
+    "main.css": "/SLCA/static/css/main.7876e709.css",
+    "main.js": "/SLCA/static/js/main.129c77d6.js",
     "static/js/787.ec1b77b6.chunk.js": "/SLCA/static/js/787.ec1b77b6.chunk.js",
-    "static/media/logo.svg": "/SLCA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/about.jpg": "/SLCA/static/media/about.20a4f368ef1e6d29ce44.jpg",
+    "static/media/mission.jpg": "/SLCA/static/media/mission.c8c0550340e345b09839.jpg",
+    "static/media/kashvi.jpg": "/SLCA/static/media/kashvi.a57e6d08265b429e8d32.jpg",
+    "static/media/lohendra.jpg": "/SLCA/static/media/lohendra.03f304dd0e001bfa1e17.jpg",
+    "static/media/ridhima.jpg": "/SLCA/static/media/ridhima.ee4d00f5c2b99d90722b.jpg",
+    "static/media/asheni.jpg": "/SLCA/static/media/asheni.72ecff8164cfa25a5ae6.jpg",
+    "static/media/saharsh.jpg": "/SLCA/static/media/saharsh.d558a54e1c4345e5009a.jpg",
+    "static/media/akhil.jpg": "/SLCA/static/media/akhil.5517c1ce00b778a91a1e.jpg",
+    "static/media/swajal.jpg": "/SLCA/static/media/swajal.35f1a81b71b320625b93.jpg",
+    "static/media/aakarshan.jpg": "/SLCA/static/media/aakarshan.5b2162fa6a82389eb5e3.jpg",
+    "static/media/king.png": "/SLCA/static/media/king.4fb33bf8badb8cb3106e.png",
+    "static/media/sangkarshan.jpg": "/SLCA/static/media/sangkarshan.815deb6f504684640a50.jpg",
+    "static/media/handshake.png": "/SLCA/static/media/handshake.f2799232ec863426e7b9.png",
+    "static/media/logo.jpg": "/SLCA/static/media/logo.1e112750b7c354e19d04.jpg",
     "index.html": "/SLCA/index.html",
-    "main.073c9b0a.css.map": "/SLCA/static/css/main.073c9b0a.css.map",
-    "main.0e604f3f.js.map": "/SLCA/static/js/main.0e604f3f.js.map",
+    "main.7876e709.css.map": "/SLCA/static/css/main.7876e709.css.map",
+    "main.129c77d6.js.map": "/SLCA/static/js/main.129c77d6.js.map",
     "787.ec1b77b6.chunk.js.map": "/SLCA/static/js/787.ec1b77b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0e604f3f.js"
+    "static/css/main.7876e709.css",
+    "static/js/main.129c77d6.js"
   ]
 }
